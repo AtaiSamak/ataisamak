@@ -2,8 +2,8 @@
 
 ## I'm a Student and Developer!
 
-- 💻 I'm studying at school 42
-- 🤖 I’m currently learning react 🤩
+- 💻 I'm studying to be a programmer at the university 🎓
+- 🤖 I’m currently learning typescript 🤩
 - 🥅 2022 Goal: Become a Frontend developer
 - ⚡ Fun fact: I love to read and play piano 🎹
 
