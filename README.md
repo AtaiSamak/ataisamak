@@ -24,3 +24,7 @@ Telegram - [@ataisamak](https://t.me/ataisamak)
 [react]: https://reactjs.org/
 [html]: https://en.wikipedia.org/wiki/HTML#:~:text=The%20HyperText%20Markup%20Language%20or,(HyperText%20Markup%20Language)
 [css]: https://en.wikipedia.org/wiki/CSS
+<br />
+<br />
+
+[![codewars](https://www.codewars.com/users/AtaiSamak/badges/large)](https://www.codewars.com/users/AtaiSamak)
