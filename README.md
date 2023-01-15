@@ -4,7 +4,7 @@
 
 - 💻 I'm studying to be a programmer at the university 🎓
 - 🤖 I’m currently learning typescript 🤩
-- 🥅 2022 Goal: Become a Frontend developer
+- 🥅 2023 Goal: Become a professional frontend developer
 - ⚡ Fun fact: I love to read and play piano 🎹
 
 ### Connect with me:
