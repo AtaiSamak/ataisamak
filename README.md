@@ -2,9 +2,9 @@
 
 ## I'm a Student and Developer!
 
-- 💻 I'm studying to be a programmer at the university 🎓
-- 🤖 I’m currently learning typescript 🤩
-- 🥅 2023 Goal: Become a professional frontend developer
+- 💻 I'm studying to be a programmer at the university(last year) 🎓
+- 🤖 I’m currently learning Golang 🤩
+- 🥅 2024 Goal: Become a professional frontend developer
 - ⚡ Fun fact: I love to read and play piano 🎹
 
 ### Connect with me:
