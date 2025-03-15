@@ -14,8 +14,8 @@
 
 ### Connect with me:
 
-LinkedIn - [@ataisamak](https://www.linkedin.com/in/ataisamak/)
-Telegram - [@ataisamak](https://t.me/ataisamak)
+- LinkedIn - [@ataisamak](https://www.linkedin.com/in/ataisamak/)
+- Telegram - [@ataisamak](https://t.me/ataisamak)
 
 ### Languages and Tools:
 
