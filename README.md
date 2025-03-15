@@ -1,11 +1,16 @@
 ### Hi there, I'm Atai 👋 
 
-## I'm a Student and Developer!
+## I'm a Frontend Developer with 3 Years of Experience
 
-- 💻 I'm studying to be a programmer at the university(last year) 🎓
-- 🤖 I’m currently learning Golang 🤩
-- 🥅 2024 Goal: Become a professional frontend developer
-- ⚡ Fun fact: I love to read and play piano 🎹
+- 🎓 Bachelor’s degree in Information Systems and Technologies  
+- 🥅 Goal: Build scalable and user-friendly frontend applications using React and TypeScript
+
+### 🛠 Tech Stack  
+- React, Next.js, TypeScript, JavaScript  
+- Redux, MobX, HTML, CSS, Sass  
+- Node.js, Express.js, NestJS, PostgreSQL  
+- Git, GitHub Actions, Docker, CI/CD 
+- Jest, React Testing Library, Cypress
 
 ### Connect with me:
 
